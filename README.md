@@ -1,4 +1,4 @@
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/jdgamble555/svelte-debounce?file=src%2Flib%2Fdebounce.ts)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/jdgamble555/svelte-debounce?file=src%2Froutes%2F%2Bpage.svelte)
 
 # create-svelte
 
